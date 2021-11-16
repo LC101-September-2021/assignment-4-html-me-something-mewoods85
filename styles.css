@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+/* Element Selector */
+p{
+    color: grey;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    color: grey;
+}
+/* .class Selector */
+.description{
+    /* text-overflow: clip; */
+    color: grey;
+}
+
+.bio{
+    color: grey;
+}
+/* #id Selector */
+#interests{
+    color: grey;
+}
