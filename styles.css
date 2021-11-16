@@ -2,22 +2,31 @@
 p{
     color: grey;
 }
+ul{
+    text-align:center;
+}
+ol{
+    text-indent:center;
+}
 
 body{
-    background-color: black;
+    background-color: mediumaquamarine;
     text-align: center;
-    color: grey;
+    /* color: grey; */
+    margin: 100pt;
 }
 /* .class Selector */
 .description{
-    /* text-overflow: clip; */
     color: grey;
 }
 
-.bio{
-    color: grey;
+.funParagraph{
+    color: green;
 }
 /* #id Selector */
-#interests{
-    color: grey;
+#aboutMe{
+    align-self: center;
+}
+#mainHeading{
+    color: red;
 }
