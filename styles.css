@@ -1,25 +1,14 @@
 /* Element Selector */
-p{
-    color: grey;
+li{
+    text-align:left;
 }
-ul{
-    text-align:center;
-}
-ol{
-    text-indent:center;
-}
-
 body{
     background-color: mediumaquamarine;
     text-align: center;
-    /* color: grey; */
-    margin: 100pt;
+    color: rgb(9, 58, 55);
+    margin: 8px;
 }
 /* .class Selector */
-.description{
-    color: grey;
-}
-
 .funParagraph{
     color: green;
 }
