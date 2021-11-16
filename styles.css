@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+/* Element Selector */
+h1{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+table{
+    /* padding-left: 100px;
+    padding-right: 100px;  */
+}
+li{
+    text-align:left;
+}
+body{
+    background-color: mediumaquamarine;
+    padding-left: 20pc;
+    padding-right: 20pc;
+    color: rgb(9, 58, 55);
+    margin: 8px;
+}
+img{
+    transform: scale(0.95);
+    align-self: left;
+}
+/* .class Selector */
+.funParagraph{
+    color: green;
+}
+/* #id Selector */
+#mainHeading{
+    color: red;
+}
